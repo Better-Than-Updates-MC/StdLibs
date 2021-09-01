@@ -1,7 +1,7 @@
 # Quilt Standard Libraries
 
-**Note: At the moment, the Quilt Standard Libraries are not ready for general use. Please make an issue or talk to the
-QSL team on discord before writing any PRs.**
+**Note: At the moment, the Quilt/Beta Standard Libraries are not ready for general use.**
+**Please make an issue or talk to the QSL team on Discord before writing any PRs.**
 
 ## Repository structure
 
